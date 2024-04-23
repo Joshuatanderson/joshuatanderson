@@ -2,25 +2,25 @@
 
 ### I'm Joshua Anderson
 
-### I'm currently building [Gnomic](https://gnomic.education)
-We are transforming computer science education 💻. We are doing that by building curriculum, testing, and game-based challenges for holistic learning.
+### I'm currently building [Cantaloupe](https://trycantaloupe.com)
+We are the first predictive hiring platform for service and hospitality
 
-### I'm currently learning
-- 🧠 Prompt Engineering & AI leverage tools
-- 🖊️ Notion
-- 🧑‍🍳 Cooking
+### I'm currently learning / would like to learn
+- 🧠 AI Model fine-tuning
+- 🧘 Meditation
+- 🧑‍🍳 Everything I can about service and hospitality (hit me up if you work in the space).
 
 ### I'm looking for help on:
-- 🌱 Raising a seed round! If you are a VC or angel investor who is interested, or know someone who likely would be, hit me up.
-- 🎤 Starting a podcast.
+- 🌱 Raising a pre-seed round! If you are a VC or angel investor interested in B2B SaaS, hit me up.
+- 🏃 Running a worldclass startup. Hit me up if you are a current founder in the trenches, or an exited founder who is willing to share some wisdom.
 
 ### How to reach me:
-✉️ joshua (at) gnomic (dot) education
+✉️ joshua (at) trycantaloupe (dot) com
 
 ### Where else to find me
-- 🌐 [Personal website](https://joshuaa.dev)
+- 🌐 [Personal website](https://www.scribedbystardust.com/)
 - 🐦 [Twitter](https://twitter.com/joshuaa_eth)
-- 👨‍⚕️ [Linkedin](https://www.linkedin.com/in/joshua-anderson-mba-2aab9b89/)
+- 👨‍⚕️ [Linkedin](https://www.linkedin.com/in/joshua-anderson-cantaloupe/)
 
 ### Other cool things I've done
 - 💻 Helped Louisiana get a Python Industry Based Credential, in a joint effort between Gnomic (back when it was called Accelerant) and the LA Department of Corrections.
