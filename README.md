@@ -2,9 +2,6 @@
 
 ### I'm Joshua Anderson
 
-### I'm currently building [Cantaloupe](https://trycantaloupe.com)
-We are the first predictive hiring platform for service and hospitality
-
 ### I'm currently learning / would like to learn
 - 🧠 AI Model fine-tuning
 - 🧘 Meditation
@@ -15,7 +12,7 @@ We are the first predictive hiring platform for service and hospitality
 - 🏃 Running a worldclass startup. Hit me up if you are a current founder in the trenches, or an exited founder who is willing to share some wisdom.
 
 ### How to reach me:
-✉️ joshua (at) trycantaloupe (dot) com
+✉️ joshuatanderson(the number 1)@[gmail]
 
 ### Where else to find me
 - 🌐 [Personal website](https://www.scribedbystardust.com/)
