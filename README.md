@@ -8,6 +8,8 @@ We instantly pre-screen hospitality applicants with voice interviews and persona
 ### I'm currently learning / would like to learn
 - 🧠 AI Model fine-tuning
 - 🧘 Meditation
+- 🖨 3D Printing
+- 🎨 How to paint
 - 🧑‍🍳 Everything I can about service and hospitality (hit me up if you work in the space).
 
 ### I'm looking for help on:
