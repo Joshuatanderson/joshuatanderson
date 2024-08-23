@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-### I'm Joshua Anderson
+### I'm Joshua Anderson 
+
+### I'm currently building [Cantaloupe](https://www.trycantaloupe.com)
+We instantly pre-screen hospitality applicants with voice interviews and personality assessments to predict compatibility – because everyone is more than a resume. 
 
 ### I'm currently learning / would like to learn
 - 🧠 AI Model fine-tuning
